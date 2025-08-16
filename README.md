@@ -1,4 +1,4 @@
-# ChessWebApps_Original
+# ChessWebApps-Original
 
 This repository is preserved in its **original state** as a snapshot of work I did many years ago.  
 
